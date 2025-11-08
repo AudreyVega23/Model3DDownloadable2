@@ -2,4 +2,4 @@
 
 You can download  this model  for free 
 
-![ModelKevChest3D](./CoffreKevImage.png)
+<img src="/CoffreKevImage.png" alt="ImageModel3D" width="30%"/>
